@@ -24,10 +24,9 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
  ### Technologies
  
  > #### Operating Systems
- ![bootstrap](https://github.com/lubiku35/lubiku35/blob/main/imgs/bootstrap.png)
- > - Linux
- >> - Ubuntu
- >> - Kali Linux
+ > ![windows](https://github.com/lubiku35/lubiku35/blob/main/imgs/windows.png)
+ > ![ubuntu](https://github.com/lubiku35/lubiku35/blob/main/imgs/ubuntu.png)
+ > ![kali](https://github.com/lubiku35/lubiku35/blob/main/imgs/kali.png)
  >
  > #### Programming languages 
  > - Python
