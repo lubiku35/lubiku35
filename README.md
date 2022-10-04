@@ -54,8 +54,6 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
  > #### Video-editing
  > - Vegas Pro
  
- ---
- 
 ### How to reach me ?
 - ✉️ motosickylubos@gmail.com  
 * 🔗 [LinkedIn](https://www.linkedin.com/in/bylubiku/)
