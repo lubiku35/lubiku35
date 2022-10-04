@@ -39,7 +39,7 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
  > #### Other Teachnologies
  > ![commandline](https://github.com/lubiku35/lubiku35/blob/main/imgs/commandline.png)
  > ![git](https://github.com/lubiku35/lubiku35/blob/main/imgs/git.png)
- > ![boostrap](https://github.com/lubiku35/lubiku35/blob/main/imgs/boostrap.png)
+ > ![boostrap](https://github.com/lubiku35/lubiku35/blob/main/imgs/bootstrap.png)
  >
  > #### Design & Video-Editing
  > ![figma](https://github.com/lubiku35/lubiku35/blob/main/imgs/figma.png)
