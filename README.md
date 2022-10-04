@@ -29,30 +29,24 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
  > ![kali](https://github.com/lubiku35/lubiku35/blob/main/imgs/kali.png)
  >
  > #### Programming languages 
- > - Python
- >> - NumPy  
- >> - Pandas 
- > - Java  
- > - Web Development  
- >> - HTML
- >> - CSS
- >> - JavaScript
- >> - Bootstrap
- >> - PHP
+ > ![python](https://github.com/lubiku35/lubiku35/blob/main/imgs/python.png)
+ > ![java](https://github.com/lubiku35/lubiku35/blob/main/imgs/java.png)
+ > ![html](https://github.com/lubiku35/lubiku35/blob/main/imgs/html.png)
+ > ![css](https://github.com/lubiku35/lubiku35/blob/main/imgs/css.png)
+ > ![js](https://github.com/lubiku35/lubiku35/blob/main/imgs/js.png)
+ > ![php](https://github.com/lubiku35/lubiku35/blob/main/imgs/php.png)
  >
- > #### Scripting
- > - Terminal (Linux)
- > - Command Line (Windows)
+ > #### Other Teachnologies
+ > ![commandline](https://github.com/lubiku35/lubiku35/blob/main/imgs/commandline.png)
+ > ![git](https://github.com/lubiku35/lubiku35/blob/main/imgs/git.png)
+ > ![boostrap](https://github.com/lubiku35/lubiku35/blob/main/imgs/boostrap.png)
  >
- > #### Design
- > - Figma
- > - Photoshop
- > - Illustrator
- > - AdobeXD
- >
- > #### Video-editing
- > - Vegas Pro
- 
+ > #### Design & Video-Editing
+ > ![figma](https://github.com/lubiku35/lubiku35/blob/main/imgs/figma.png)
+ > ![illustrator](https://github.com/lubiku35/lubiku35/blob/main/imgs/illustrator.png)
+ > ![photoshop](https://github.com/lubiku35/lubiku35/blob/main/imgs/photoshop.png)
+ > ![vegas](https://github.com/lubiku35/lubiku35/blob/main/imgs/vegas.png)
+
 ### How to reach me ?
 - ✉️ motosickylubos@gmail.com  
 * 🔗 [LinkedIn](https://www.linkedin.com/in/bylubiku/)
