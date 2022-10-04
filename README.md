@@ -24,7 +24,7 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
  ### Technologies
  
  > #### Operating Systems
- > - Windows
+ > (/imgs/windows)
  > - Linux
  >> - Ubuntu
  >> - Kali Linux
