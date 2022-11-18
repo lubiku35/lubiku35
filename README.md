@@ -2,7 +2,8 @@
 
 **Welcome Stalkers**  ![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lubiku35)
 
-[sadsadasdsa](https://github-readme-codewars-stats.herokuapp.com/api/?username=lubiku35&badge&colormode=dark_mode)
+![Codewars](https://github.r2v.ch/codewars?user=lubiku35&stroke=%23BB432C)
+
 
 ## Who am I ?
 
