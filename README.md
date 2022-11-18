@@ -14,11 +14,11 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
 
 <div align="center">
  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lubiku35&bg_color=#131313&color=#00C0FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lubiku35&bg_color=#131313&color=#00C0FF&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lubiku35&theme=sea_dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lubiku35&theme=sea-dark)](https://git.io/streak-stats)
 
 </div>
 
