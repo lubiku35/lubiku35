@@ -9,7 +9,7 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
 
 <div align="center">
  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lubiku35&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lubiku35&react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <br>
  
