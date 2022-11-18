@@ -1,17 +1,19 @@
 # Ľuboslav Motošický
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lubiku35&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lubiku35&theme=tokyonight)](https://git.io/streak-stats)
-
 ## Who am I ?
 
 My name is Ľuboslav Motošický, currently located in Czech Republic - Prague  🇨🇿  
 I'm 21 years old, student of software engineering on [ČVUT FEL Software Engineering and Technologies](https://sit.fel.cvut.cz/)
 
-### Welcome Stalkers 
+<div align="center">
+ 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lubiku35&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lubiku35)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lubiku35&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+**Welcome Stalkers**  ![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lubiku35)
 ---
 
 ### Interests
