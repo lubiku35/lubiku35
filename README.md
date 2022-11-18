@@ -51,7 +51,7 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
  > ![vegas](https://github.com/lubiku35/lubiku35/blob/main/imgs/vegas.png)
 
 
-<div align="center">
+<div align="left">
  
 [![User stats](https://github-readme-stats.vercel.app/api?username=lubiku35&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
  
