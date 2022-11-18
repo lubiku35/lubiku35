@@ -5,6 +5,7 @@
 
 My name is Ľuboslav Motošický, currently located in Czech Republic - Prague  🇨🇿  
 I'm 21 years old, student of software engineering on [ČVUT FEL Software Engineering and Technologies](https://sit.fel.cvut.cz/)
+
 ![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lubiku35)
 ---
 
