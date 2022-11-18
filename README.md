@@ -55,7 +55,9 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
  
 [![User stats](https://github-readme-stats.vercel.app/api?username=lubiku35&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
  
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lubiku35&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lubiku35&theme=tokyonight)](https://git.io/streak-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lubiku35&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lubiku35&theme=tokyonight)](https://git.io/streak-stats)
  
 [![Github profile trophies](https://github-profile-trophy.vercel.app/?username=lubiku35&theme=algolia&column=4)](https://github.com/ryo-ma/github-profile-trophy)
  
