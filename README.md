@@ -7,11 +7,13 @@
 My name is Ľuboslav Motošický, currently located in Czech Republic - Prague  🇨🇿  
 I'm 21 years old, student of software engineering on [ČVUT FEL Software Engineering and Technologies](https://sit.fel.cvut.cz/)
 
+<br>
+
 <div align="center">
  
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lubiku35&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- <br>
+<br>
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lubiku35&theme=tokyonight)](https://git.io/streak-stats)
 
