@@ -12,18 +12,6 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
 
 <br>
 
-<div align="center">
- 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lubiku35&bg_color=131313&color=00C0FF&line=00C0FF&point=00C0FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lubiku35&theme=sea-dark)](https://git.io/streak-stats)
-
-</div>
-
-<br>
-
 ## Interests
 
  ⌨️ Scripting  
