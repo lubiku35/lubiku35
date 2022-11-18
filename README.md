@@ -2,6 +2,8 @@
 
 **Welcome Stalkers**  ![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lubiku35)
 
+https://github-readme-codewars-stats.herokuapp.com/api/?username=lubiku35&badge&colormode=dark_mode
+
 ## Who am I ?
 
 My name is Ľuboslav Motošický, currently located in Czech Republic - Prague  🇨🇿  
