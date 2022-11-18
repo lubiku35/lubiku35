@@ -18,7 +18,7 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
 
 <br>
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lubiku35&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lubiku35&theme=react-dark)](https://git.io/streak-stats)
 
 </div>
 
