@@ -1,17 +1,17 @@
 # ĽUBOŠ MOTOŠICKÝ
 
-**Welcome Stalkers**  ![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lubiku35)
+**Welcome**  ![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lubiku35)
 
-![(https://github.r2v.ch/codewars?user=lubiku35&stroke=%23BB432C)](https://github-readme-codewars-stats.herokuapp.com/api/?username=lubiku35&badge&colormode=dark_mode)
+<br>
 
-
-## Who am I ?
+## Who AM I?
 
 My name is Ľuboslav Motošický, currently located in Czech Republic - Prague  🇨🇿  
 I'm 21 years old, student of software engineering on [ČVUT FEL Software Engineering and Technologies](https://sit.fel.cvut.cz/)
 
 <br>
 
+## STATS
 
 <br>
 
@@ -24,6 +24,12 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lubiku35&theme=sea-dark)](https://git.io/streak-stats)
 
 </div>
+
+<br>
+
+![(https://github.r2v.ch/codewars?user=lubiku35&stroke=%23BB432C)](https://github-readme-codewars-stats.herokuapp.com/api/?username=lubiku35&badge&colormode=dark_mode)
+
+<br>
 
 ## Interests
 
