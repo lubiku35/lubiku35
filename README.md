@@ -24,6 +24,7 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
 
 </div>
 
+<br>
 
 ## INTERESTS
 
@@ -35,6 +36,8 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
  🎨 Design & Art  
  💵 Finance & Economy  
  👨‍💼 Personal Management & Growth
+ 
+ <br>
  
  ## TECHNOLOGIES
  
@@ -62,6 +65,8 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
  > ![photoshop](https://github.com/lubiku35/lubiku35/blob/main/imgs/photoshop.png)
  > ![vegas](https://github.com/lubiku35/lubiku35/blob/main/imgs/vegas.png)
 
-### How to reach me ?
+<br>
+
+## HOW TO REACH ME ?
 - ✉️ motosickylubos@gmail.com  
 * 🔗 [LinkedIn](https://www.linkedin.com/in/bylubiku/)
