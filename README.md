@@ -25,7 +25,7 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
 </div>
 
 
-## Interests
+## INTERESTS
 
  ⌨️ Scripting  
  💻 Programming  
@@ -36,9 +36,7 @@ I'm 21 years old, student of software engineering on [ČVUT FEL Software Enginee
  💵 Finance & Economy  
  👨‍💼 Personal Management & Growth
  
- ---
- 
- ### Technologies
+ ## TECHNOLOGIES
  
  > #### Operating Systems
  > ![windows](https://github.com/lubiku35/lubiku35/blob/main/imgs/windows.png)
