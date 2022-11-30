@@ -2,7 +2,7 @@
 
 **Welcome**  ![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lubiku35)
 
-## WHO THE F*XK IS LUBIKU ?
+## WHO THE FXCK IS LUBIKU ?
 
 My name is Ľuboslav Motošický, currently located in Czech Republic - Prague  🇨🇿  
 I'm 21 years old, student of software engineering on [ČVUT FEL Software Engineering and Technologies](https://sit.fel.cvut.cz/)
