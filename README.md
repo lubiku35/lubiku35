@@ -6,7 +6,9 @@
 
 Fully named "Ľuboslav Motošický" appearing as lubiku, curretly located on the planet Earth with 21 level of age hardstudying software engineering on [ČVUT FEL Software Engineering and Technologies](https://sit.fel.cvut.cz/), engaged in cybersecurity & working as Information Technology Security Specialist.   
 
-He is kinda unusual or in other words selcouth {google for it} brand person with slightly different view of how things go.  
+He is kinda unusual, or in other words selcouth {google for it} brand of person with slightly different view of how things go. 100011 is his number and to be clear he refuses any social interaction (very often).
+
+Also his curiosity sometimes gets him into unpleasantly, nasty and odlly situations.
 
 ## STATS
 
