@@ -4,8 +4,7 @@
 
 ## WHO THE FXCK IS LUBIKU ?
 
-My name is Ľuboslav Motošický, currently located in Czech Republic - Prague  🇨🇿  
-I'm 21 years old, student of software engineering on [ČVUT FEL Software Engineering and Technologies](https://sit.fel.cvut.cz/)
+Fully named "Ľuboslav Motošický" appearing as lubiku, curretly located on the planet Earth with 21 level of age hardstudying software engineering on [ČVUT FEL Software Engineering and Technologies](https://sit.fel.cvut.cz/), engaged in cybersecurity & working as Information Technology Security Specialist.   
 
 ## STATS
 
