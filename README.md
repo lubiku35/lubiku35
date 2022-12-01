@@ -41,6 +41,7 @@ Also his curiosity sometimes gets him into unpleasantly, nasty and odlly situati
  👨‍💼 Personal Management & Growth
  
  <br>
+ <br>
  
  ## TECHNOLOGIES
  
