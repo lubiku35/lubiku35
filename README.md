@@ -23,7 +23,7 @@ Also his curiosity sometimes gets him into unpleasantly, nasty and odlly situati
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lubiku35&theme=sea-dark)](https://git.io/streak-stats)
 
  
-![(https://github.r2v.ch/codewars?user=lubiku35&stroke=%23BB432C)](https://github-readme-codewars-stats.herokuapp.com/api/?username=lubiku35&badge&colormode=dark_mode)
+![(https://github.r2v.ch/codewars?user=lubiku35&stroke=%23BB432C)](https://github-readme-codewars-stats.herokuapp.com/api/?username=lubiku35&badge&colormode=bright_mode)
 
 </div>
 
