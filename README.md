@@ -1,6 +1,6 @@
 # LUBIKU
 
-**Welcome**  ![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lubiku35)
+![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lubiku35)
 
 ## WHO THE FXCK IS LUBIKU ?
 
