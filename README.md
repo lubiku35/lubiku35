@@ -2,7 +2,7 @@
 
 ![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lubiku35)
 
-## WHO THE FXCK IS LUBIKU ?
+## WHO IS LUBIKU ?
 
 Fully named "Ľuboslav Motošický" appearing as lubiku, curretly located on the planet Earth with 21 level of age hardstudying software engineering on [ČVUT FEL Software Engineering and Technologies](https://sit.fel.cvut.cz/), engaged in cybersecurity & working as Information Technology Security Specialist.   
 
