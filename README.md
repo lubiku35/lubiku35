@@ -53,16 +53,39 @@ Web Development | Competitive Programming | Scripting | Cybersecurity | Ethical 
 
 ### Web Development
 
+![html](./technologies/html.png)
+![css](./technologies/css.png)
+![js](./technologies/js.png)
+![php](./technologies/php.png)
+
 ### Programming & Scripting
+
+![python](./technologies/python.png)
+![java](./technologies/java.png)
 
 ### Cybersecurity & Hacking
 
+![kali](./technologies/kali.png)
+![cmd](./technologies/cmd.png)
+![terminal](./technologies/terminal.png)
+
 ### Multimedia Production
 
-### Other Technologies
+![figma](./technologies/figma.png)
+![photoshop](./technologies/photoshop.png)
+![illustrator](./technologies/illustrator.png)
+![vegas](./technologies/vegas.png)
+
+### Other Technologies & Tools
+
+![git](./technologies/git.png)
+![vsc](./technologies/vsc.png)
+![notion](./technologies/notion.png)
 
 ### Gaming
 
+![steam](./technologies/steam.png)
+![riot](./technologies/riot.png)
 
 ## CWO
 
