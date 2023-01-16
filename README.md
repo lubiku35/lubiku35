@@ -1,76 +1,101 @@
-# LUBIKU
 
-![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lubiku35)
+# LUBOSLAV "whoislubiku" MOTOSICKY
 
-## WHO IS LUBIKU ?
+Welcome on my github profile, glad to see you here:) 
 
-Fully named "Ľuboslav Motošický" appearing as lubiku, curretly located on the planet Earth with 21 level of age hardstudying software engineering on [ČVUT FEL Software Engineering and Technologies](https://sit.fel.cvut.cz/), engaged in cybersecurity & working as Information Technology Security Specialist.   
+![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lubiku35)  
 
-He is kinda unusual, or in other words selcouth {google for it} brand of person with slightly different view of how things go. 100011 is his number and to be clear he refuses any social interaction (very often).
 
-Also his curiosity sometimes gets him into unpleasantly, nasty and odlly situations.
+## INTRO
 
-## STATS
+My name is as you can see, Luboslav Motosicky, currently 21 years old student of software engineering and information technologies on [ČVUT FEL - Faculty of Electrical Engineering](https://sit.fel.cvut.cz/).
 
-<br>
+Appearing as 'whoislubiku' or just 'lubiku', from Slovakia, located in Prague - Czech Republic at this time.
+Also working as Junior Information Technology Security Expert at MyCom Solutions Company.
 
-<div align="center">
- 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lubiku35&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Enthusiast in web development, scripting & programming, ethical hacking & cybersecurity, digital design & multimedia production, crossfit & bodybuilding and lot more -> to explore navigate to [INTERESTS](#interests).
 
-<br>
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lubiku35&theme=sea-dark)](https://git.io/streak-stats)
+## QUICK STATS
 
- 
-![(https://github.r2v.ch/codewars?user=lubiku35&stroke=%23BB432C)](https://github-readme-codewars-stats.herokuapp.com/api/?username=lubiku35&badge&colormode=bright_mode)
+### Github 
 
-</div>
+[![Lubiku github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lubiku35&custom_title=Github%20Activity%20Graph&theme=react-dark)](https://github.com/lubiku35/github-readme-activity-graph)
 
-<br>
+### Codewars 
+
+![github stats](https://www.codewars.com/users/whoislubiku/badges/large)
+
+> Codewars is an educational platform focused on computer programming. Here software developers train on programming challenges
+
+**2022 SOLVED CHALLENGES** : 218
+
+**2023 SOLVED CHALLENGES** : 25
+
+**TRAINED LANGUAGES** : Python / JavaScript
+
+
+### PicoCTF
+
+> PicoCTF is a largest community website / organization which is focused on cybersecurity and hacking
+
+**GYM SCORE** : 3770
+
+**CHALLENGES SOLVED**: 40
+
+**TOPICS TRAINED**: General Skills / Cryptography / Reverse Engineering / Forensics / Binary Exploitation
 
 ## INTERESTS
 
- ⌨️ Scripting  
- 💻 Programming  
- 🧮 Algorithms  
- 🔐 Cybersecurity  
- 🔎 Ethical Hacking  
- 🎨 Design & Art  
- 💵 Finance & Economy  
- 👨‍💼 Personal Management & Growth
- 
- <br>
- <br>
- 
- ## TECHNOLOGIES
- 
- > #### Operating Systems
- > ![windows](https://github.com/lubiku35/lubiku35/blob/main/imgs/windows.png)
- > ![ubuntu](https://github.com/lubiku35/lubiku35/blob/main/imgs/ubuntu.png)
- > ![kali](https://github.com/lubiku35/lubiku35/blob/main/imgs/kali.png)
- >
- > #### Programming languages 
- > ![python](https://github.com/lubiku35/lubiku35/blob/main/imgs/python.png)
- > ![java](https://github.com/lubiku35/lubiku35/blob/main/imgs/java.png)
- > ![html](https://github.com/lubiku35/lubiku35/blob/main/imgs/html.png)
- > ![css](https://github.com/lubiku35/lubiku35/blob/main/imgs/css.png)
- > ![js](https://github.com/lubiku35/lubiku35/blob/main/imgs/js.png)
- > ![php](https://github.com/lubiku35/lubiku35/blob/main/imgs/php.png)
- >
- > #### Other Teachnologies
- > ![commandline](https://github.com/lubiku35/lubiku35/blob/main/imgs/commandline.png)
- > ![git](https://github.com/lubiku35/lubiku35/blob/main/imgs/git.png)
- > ![boostrap](https://github.com/lubiku35/lubiku35/blob/main/imgs/bootstrap.png)
- >
- > #### Design & Video-Editing
- > ![figma](https://github.com/lubiku35/lubiku35/blob/main/imgs/figma.png)
- > ![illustrator](https://github.com/lubiku35/lubiku35/blob/main/imgs/illustrator.png)
- > ![photoshop](https://github.com/lubiku35/lubiku35/blob/main/imgs/photoshop.png)
- > ![vegas](https://github.com/lubiku35/lubiku35/blob/main/imgs/vegas.png)
+Web Development | Competitive Programming | Scripting | Cybersecurity | Ethical Hacking | Multimedia Production | Design & Art | Project Management | Social Engineering | Investment & Finance | Gaming & Music |  Crossfit & Bodybuilding 
 
-<br>
 
-## HOW TO REACH ME ?
-- ✉️ motosickylubos@gmail.com  
-* 🔗 [LinkedIn](https://www.linkedin.com/in/bylubiku/)
+## TECHNOLOGIES
+
+### Web Development
+
+### Programming & Scripting
+
+### Cybersecurity & Hacking
+
+### Multimedia Production
+
+### Other Technologies
+
+### Gaming
+
+
+## CWO
+
+> CWO or "Currently Working on"
+
+- Personal Website with (blog, my services, my portfolio, login and registration system)
+
+- Blog Posts
+
+- School Project - CVUTNESS
+
+- CCNA - Cisco Certified Network Associate
+
+>  - Everyday challenges on codewars, picoCTF, TryHackMe and more
+
+## WHERE TO FIND ME
+
+📎 [LinkedIn](https://www.linkedin.com/in/whoislubiku/)
+
+📎 [Instagram](https://www.instagram.com/lubiku35/)
+
+📎 [Twitter](https://twitter.com/whoislubiku)
+
+📎 [Youtube](https://www.youtube.com/channel/UCiwUj6DcYCPGhAi3sv2uTlQ)
+
+📎 [Twitch](https://www.twitch.tv/whoislubiku)
+
+📎 [Codewars](https://www.codewars.com/users/whoislubiku)
+
+📎 [Behance](https://www.behance.net/bylubiku)
+
+📎 [Dribbble](https://dribbble.com/lubiku)
+
+📎 [SoundCloud](https://soundcloud.com/lubo-moto-ick)
+
+📎 lubiku@proton.me
