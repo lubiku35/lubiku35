@@ -8,7 +8,7 @@ Welcome on my github profile, glad to see you here:)
 
 ## INTRO
 
-My name is as you can see, Luboslav Motosicky, currently 21 years old student of software engineering and information technologies on [ČVUT FEL - Faculty of Electrical Engineering](https://sit.fel.cvut.cz/).
+My name is as you can see, Luboslav Motosicky, currently 21 years old student of software engineering and information technologies on [CTU - Faculty of Electrical Engineering](https://sit.fel.cvut.cz/).
 
 Appearing as 'whoislubiku' or just 'lubiku', from Slovakia, located in Prague - Czech Republic at this time.
 Also working as Junior Information Technology Security Expert at MyCom Solutions Company.
