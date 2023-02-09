@@ -29,7 +29,7 @@ Enthusiast in web development, scripting & programming, ethical hacking & cybers
 
 **2022 SOLVED CHALLENGES** : 218
 
-**2023 SOLVED CHALLENGES** : 43
+**2023 SOLVED CHALLENGES** : 45
 
 **TRAINED LANGUAGES** : Python / JavaScript
 
