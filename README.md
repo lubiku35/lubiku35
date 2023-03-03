@@ -103,22 +103,4 @@ Web Development | Competitive Programming | Scripting | Cybersecurity | Ethical 
 
 ## WHERE TO FIND ME
 
-📎 [LinkedIn](https://www.linkedin.com/in/whoislubiku/)
-
-📎 [Instagram](https://www.instagram.com/lubiku35/)
-
-📎 [Twitter](https://twitter.com/whoislubiku)
-
-📎 [Youtube](https://www.youtube.com/channel/UCiwUj6DcYCPGhAi3sv2uTlQ)
-
-📎 [Twitch](https://www.twitch.tv/whoislubiku)
-
-📎 [Codewars](https://www.codewars.com/users/whoislubiku)
-
-📎 [Behance](https://www.behance.net/bylubiku)
-
-📎 [Dribbble](https://dribbble.com/lubiku)
-
-📎 [SoundCloud](https://soundcloud.com/lubo-moto-ick)
-
 📎 lubiku@proton.me
