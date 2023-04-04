@@ -1,7 +1,6 @@
 
 # LUBOSLAV "whoislubiku" MOTOSICKY
 
-Welcome on my github profile, glad to see you here...
 
 ![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lubiku35)  
 
