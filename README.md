@@ -18,7 +18,7 @@ Enthusiast in web development, scripting & programming, ethical hacking & cybers
 
 ### TryHackMe
 
-![tryhackme stats](https://raw.githubusercontent.com/lubiku/lubiku/master/assets/thm_propic.png)
+![lubiku tryhackme stats](https://raw.githubusercontent.com/lubiku/lubiku/master/assets/thm_propic.png)[tryhackme]
 
 ### Github 
 
